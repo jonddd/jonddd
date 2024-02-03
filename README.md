@@ -4,4 +4,4 @@ My GitHub contains past (and current) projects, some of which are for academic p
 
 I enjoy working on challenging puzzles and strive to build functional and relevant solutions to real world problems. 
 
-📫 You can reach me on linkedin at www.linkedin.com/in/jon-kang-50630428b
+📫 You can reach me on linkedin at www.linkedin.com/in/jon-daniel-acu-kang
